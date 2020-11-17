@@ -1,0 +1,10 @@
+Package: ridgereg
+Type: Package
+Title: Algorithm for fitting ridge regression
+Version: 0.0.1
+Date: 2020-11-16
+Author: Boxiang Wang <boxiang-wang@uiowa.edu>
+Maintainer: Boxiang Wang <boxiang-wang@uiowa.edu>
+Description: Implements singular value decomposition to efficiently solve ridge regression. This package is used for demonstrating how to create an R package in STAT 5400: Statistical Computing at the University of Iowa.
+License: GPL-3
+RoxygenNote: 6.1.1
